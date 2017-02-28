@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+}
+
+label {
+    display: inline-block;
+    width: 70px;
+}
+
+input {
+    width: 100px;
+}
+
+#my-canvas {
+    margin: 0 auto;
+    display: none;
+}
